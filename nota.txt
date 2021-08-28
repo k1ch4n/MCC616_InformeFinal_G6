@@ -17,25 +17,29 @@ ___  ________  _____   ____  __    ____   _____       __                        
 *	MCC616: Elementos de Procesamiento de imagenes	*
 *********************************************************
 
-Para el presente desarrollo se sugiere correr en PCs que 
-cuenten con GPU, o se sugiere usar google colab habilitando 
-los recursos de GPU del backend de Google Compute Engine en Python 3
+Para el presente desarrollo se sugiere correr en PCs que cuenten con GPU, o se sugiere usar google colab habilitando los recursos de GPU del backend de Google Compute Engine en Python 3
 
----------------------------------------------------------------------------------
-| Guiarse de los siguientes notebooks:						|
-|										|
-|	Trabajo_imagenes_Predicciones.ipynb					|
-|	Trabajo_imagenes_vfinal_graf.ipynb					|
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Resumen: El presente trabajo predice cuando el nivel de un manometro es bajo.
+
+Sugerencias para utilizar el presente trabajo:
+
 ---------------------------------------------------------------------------------------------------------------------------------
 |  Dataset: La creación del dataset se realizó a partir de extraccion de fotogramasa partir de videos				|
 |    la fuente de los videos se encuenta en el dataset "Pressure Gauge Reader Data". From "Aalborg sewer pump stations"		|
 |    Para mas detalles, ver en el sgt. enlace: https://www.kaggle.com/juliusgrassme/pressure-gauge-reader-data			|
 |    Los scripts utilizados lo puden encontrar en la carpeta de nombre "Pruebas_previas"					|
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
 ---------------------------------------------------------------------------------
 |  Para correr los codigos, asegurarse de establecer bien los directorios	|
 |  tal como se estructura en la carpeta, con nombre:				|
 |										|
 |	data_estructurada_x_ImageDataGenerator					|
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+-----------------------------------------------------------------------------------------
+| Guiarse de los siguientes notebooks, ubicados en la carpeta "Codigo_version_final":	|
+|											|
+|		Trabajo_imagenes_Predicciones.ipynb					|
+|		Trabajo_imagenes_vfinal_graf.ipynb					|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
