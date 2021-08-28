@@ -46,3 +46,10 @@ Sugerencias para entender y utilizar el presente trabajo:
 |		Trabajo_imagenes_vfinal_graf.ipynb					|
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
+-----------------------------------------------------------------------------------------
+| En la carpeta con nombre "Imagenes_para_predecir" 					|
+| se subiran imagenes que no esten en el dataset, para diferenciarlas 			|
+| se guarda con un nombre que nos ayude a identificar (opcional), 			|
+| estas imagenes son las que el modelo va a predecir si esta en condicion normal o bajo.|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
