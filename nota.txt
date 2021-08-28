@@ -1,0 +1,30 @@
+
+___  ________  _____   ____  __    ____   _____       __                           ______ _             _ 
+|  \/  /  __ \/  __ \ / ___|/  |  / ___| |_   _|     / _|                          |  ___(_)           | |
+| .  . | /  \/| /  \// /___ `| | / /___    | | _ __ | |_ ___  _ __ _ __ ___   ___  | |_   _ _ __   __ _| |
+| |\/| | |    | |    | ___ \ | | | ___ \   | || '_ \|  _/ _ \| '__| '_ ` _ \ / _ \ |  _| | | '_ \ / _` | |
+| |  | | \__/\| \__/\| \_/ |_| |_| \_/ |  _| || | | | || (_) | |  | | | | | |  __/ | |   | | | | | (_| | |
+\_|  |_/\____/ \____/\_____/\___/\_____/  \___/_| |_|_| \___/|_|  |_| |_| |_|\___| \_|   |_|_| |_|\__,_|_|
+                                                                                                          
+                                                                                                          
+*********************************************************
+*Integrantes:						*
+*	Roberto Jesus Arias Espada			*
+*	Cristian M. Llallihuaman C.			*
+*Profesor:						*
+*	Dr. César Beltran Castañón			*
+*Curso: 						*
+*	MCC616: Elementos de Procesamiento de imagenes	*
+*********************************************************
+
+Para el presente desarrollo se sugiere correr en PC que cuenten con GPU, o se sugiere usar google colab habilitando los recursos de GPU del backend de Google Compute Engine en Python 3
+
+Para correr el siguiente desarrollo, guiarse de los siguientes notebooks:
+
+Trabajo_imagenes_Predicciones.ipynb
+Trabajo_imagenes_vfinal_graf.ipynb
+
+Asegurarse de establecer bien los directorios tal como se estructura en la carpeta con nombre:
+
+data_estructurada_x_ImageDataGenerator
+
